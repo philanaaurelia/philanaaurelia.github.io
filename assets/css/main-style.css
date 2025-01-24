@@ -163,6 +163,7 @@ a>i.sidebar-more{transform:scale(.8)}
 ## Font Size style
 --------------------------------------------------------------*/
 .text-ss{font-size:.45rem!important}
+li .text-xs{font-size:.75rem!important}
 .text-xs{font-size:.75rem!important}
 .text-sm{font-size:.875rem!important}
 .text-md{font-size:1rem!important}
