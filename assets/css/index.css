@@ -74,10 +74,12 @@ body {
 }
 
 #display h1 {
-  font-size: 50px;
+  font-size: 80px;
   color: var(--text-color);
-  font-weight: bold;
-  font-family: "Questrial", sans-serif;
+  font-weight: normal;
+  font-family: "Just Another Hand", sans-serif;
+  margin-bottom: 10px;
+  padding-left: 10px;
 }
 
 #profile_img {
